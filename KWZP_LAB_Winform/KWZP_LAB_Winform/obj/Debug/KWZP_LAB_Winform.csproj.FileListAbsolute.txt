@@ -1,0 +1,16 @@
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\bin\Debug\KWZP_LAB_Winform.exe.config
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\bin\Debug\KWZP_LAB_Winform.exe
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\bin\Debug\KWZP_LAB_Winform.pdb
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\obj\Debug\KWZP_LAB_Winform.lbl1.resources
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\obj\Debug\KWZP_LAB_Winform.Properties.Resources.resources
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\obj\Debug\KWZP_LAB_Winform.csproj.GenerateResource.cache
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\obj\Debug\KWZP_LAB_Winform.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\obj\Debug\KWZP_LAB_Winform.exe
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\obj\Debug\KWZP_LAB_Winform.pdb
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\obj\Debug\KWZP_LAB_Winform.csprojAssemblyReference.cache
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\obj\Debug\KWZP_LAB_Winform.DetailsForm.resources
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\bin\Debug\EntityFramework.dll
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\bin\Debug\EntityFramework.xml
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rafał\Desktop\KWZP_LAB\KWZP_LAB_Winform\KWZP_LAB_Winform\obj\Debug\KWZP_LAB_Winform.csproj.CopyComplete
